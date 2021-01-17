@@ -1,0 +1,14 @@
+{
+	//ItemGroup
+	"itemGroup.moresquids": "More Squids",
+	
+	/*********************************************************** Entities ********************************************************/
+	
+	//Hostile
+	"entity.moresquids.creeper_squid": "Creeper Squid",
+	
+	/*********************************************************** Entity Spawn Eggs ********************************************************/
+	
+	//Hostile
+	"item.moresquids.creeper_squid_spawn_egg": "Creeper Squid Spawn Egg"
+}
